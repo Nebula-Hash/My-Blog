@@ -5,6 +5,7 @@
 **Vue 3 + Go 全栈个人博客系统**
 
 一个功能丰富、界面美观的现代化博客，前后端分离，开箱即用。
+
 [![Vue](https://img.shields.io/badge/Vue-3.x-4FC08D?style=flat-square&logo=vue.js)](https://vuejs.org/)
 [![Go](https://img.shields.io/badge/Go-1.24-00ADD8?style=flat-square&logo=go)](https://go.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
