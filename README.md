@@ -13,8 +13,6 @@
 
 </div>
 
----                                                       |
-
 ## 技术栈
 
 | 层级   | 技术                                               |
@@ -371,12 +369,6 @@ cd My-Blog-Vue3 && npm run build   # 生产构建
 cd My-Blog-Go && go run main.go    # 直接启动
 cd My-Blog-Go && air               # 热重载
 ```
-
-## API 文档
-
-详见 [My-Blog-Go/API.md](My-Blog-Go/API.md) 和 [My-Blog-Go/README.md](My-Blog-Go/README.md)。
-
-https://star-history.com/#monkey-papa/NEBULA-BLOG&Date)
 
 ## 许可证
 
