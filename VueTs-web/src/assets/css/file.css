@@ -1,0 +1,10 @@
+:root {
+  --bossAvatar: url(/images/nebula-hash.jpg);
+  --defaultAvatar: url(../images/avatar.jpg);
+  --joinImage: url(../images/QR-code.jpg);
+  --comment1URL: url(../images/comment1.png);
+  --comment2URL: url(../images/comment2.png);
+  --toTop: url(../images/top.jpg);
+  --toolbar: url(../images/bg.jpg);
+  --rural: url(../images/rural.jpg);
+}

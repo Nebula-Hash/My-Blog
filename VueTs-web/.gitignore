@@ -1,0 +1,122 @@
+# ==========================================
+# Dependencies
+# ==========================================
+node_modules/
+.pnp
+.pnp.js
+
+# ==========================================
+# Build Output
+# ==========================================
+dist/
+dist-ssr/
+build/
+.cache/
+.parcel-cache/
+
+# ==========================================
+# Environment Files
+# ==========================================
+.env
+.env.local
+.env.*.local
+!.env.production
+
+# ==========================================
+# Logs
+# ==========================================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# ==========================================
+# IDE & Editors
+# ==========================================
+# JetBrains
+.idea/
+*.iml
+*.iws
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Visual Studio
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Vim
+*.sw?
+*.swp
+*.swo
+*~
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# ==========================================
+# OS Files
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Thumbs.db:encryptable
+Desktop.ini
+$RECYCLE.BIN/
+
+# ==========================================
+# Testing & Coverage
+# ==========================================
+coverage/
+*.lcov
+.nyc_output/
+test-results/
+playwright-report/
+
+# ==========================================
+# TypeScript
+# ==========================================
+*.tsbuildinfo
+.tsbuildinfo
+
+# ==========================================
+# Vue / Vite
+# ==========================================
+.vite/
+.vite-inspect/
+*.local
+
+# ==========================================
+# Temporary Files
+# ==========================================
+*.tmp
+*.temp
+*.bak
+.cache/
+
+# ==========================================
+# Package Manager
+# ==========================================
+# Uncomment if you want to ignore lock files
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# ==========================================
+# Auto-generated Files
+# ==========================================
+# Uncomment if these should not be committed
+# auto-imports.d.ts
+# components.d.ts
+
+# ==========================================
+# Agent Files
+# ==========================================
+.agent/

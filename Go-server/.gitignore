@@ -1,0 +1,93 @@
+# ==========================================
+# Go Binaries
+# ==========================================
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+my-blog-go
+blog-server
+main
+
+# Test binaries
+*.test
+
+# Output files
+*.out
+
+# ==========================================
+# Go Dependencies
+# ==========================================
+vendor/
+go.work
+go.work.sum
+
+# ==========================================
+# Air Hot Reload
+# ==========================================
+tmp/
+air.log
+.air.toml.local
+
+# ==========================================
+# Build & Coverage
+# ==========================================
+*.prof
+*.test
+*.out
+coverage.txt
+coverage.html
+*.coverprofile
+
+# ==========================================
+# IDE & Editors
+# ==========================================
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*~
+.*.sw[a-p]
+*.iml
+
+# ==========================================
+# Logs
+# ==========================================
+*.log
+logs/
+
+# ==========================================
+# OS Files
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+
+# ==========================================
+# Environment & Config
+# ==========================================
+.env
+.env.local
+*.env
+!.env.example
+config.local.go
+
+# ==========================================
+# Temporary Files
+# ==========================================
+*.tmp
+*.temp
+*.bak
+*.swp
+.cache/
+
+# ==========================================
+# Static Files (if generated)
+# ==========================================
+# Uncomment if you generate static files
+# static/uploads/
+# static/images/
